@@ -10,3 +10,6 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 alias v='nvim'
+
+eval "$(starship init bash)"
+
