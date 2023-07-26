@@ -6,6 +6,7 @@
 [[ $- != *i* ]] && return
 
 alias v='nvim'
+alias ls='lsd'
 alias cat='bat'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
